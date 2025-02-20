@@ -3,7 +3,7 @@
 This project is a simple **Event Invitation Page** built with **HTML** and **CSS**. It showcases a clean and basic layout for an event invitation, including sections like event title, date, time, venue, and an RSVP button.
 ## Project Overview
 
-The goal of this project is to create a static event invitation page using **HTML** for structure and **CSS** for styling. The page will be visually appealing and well-organized, providing all necessary details for the event in a structured format. After finalizing the page, the project will be deployed on **Netlify**, and a **QR code** will be provided for easy access.
+The goal of this project is to create a static event invitation page using **HTML** for structure and **CSS** for styling. The page will be visually appealing and well-organized, providing all necessary details for the event in a structured format.
 
 ## Features
 
